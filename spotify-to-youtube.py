@@ -1,7 +1,7 @@
 # CONFIG --------------------------------------
 SPOTIFY_AUTH_FILE = "spotify_auth.json"
 YTMUSIC_HEADERS_FILE = 'ytmusic_headers_auth.json'
-SPOTIFY_REDIRECT_URI = 'http://localhost/'
+SPOTIFY_REDIRECT_URI = 'https://localhost/'
 # ---------------------------------------------
 
 
